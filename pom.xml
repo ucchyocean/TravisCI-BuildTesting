@@ -127,21 +127,25 @@
       <groupId>org.bukkit</groupId>
       <artifactId>bukkit</artifactId>
       <version>1.10.2-R0.1-SNAPSHOT</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>net.milkbowl.vault</groupId>
       <artifactId>VaultAPI</artifactId>
       <version>1.6</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>org.dynmap</groupId>
       <artifactId>dynmap-api</artifactId>
       <version>2.0</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>uk.co.oliwali</groupId>
       <artifactId>HawkEye</artifactId>
       <version>1.7.2</version>
+      <optional>true</optional>
       <exclusions>
         <exclusion>
           <groupId>com.dthielke.herochat</groupId>
@@ -153,16 +157,19 @@
       <groupId>com.onarandombox.multiversecore</groupId>
       <artifactId>Multiverse-Core</artifactId>
       <version>2.5</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>com.gmail.nossr50.mcMMO</groupId>
       <artifactId>mcMMO</artifactId>
       <version>1.5.00</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>me.botsko</groupId>
       <artifactId>prism</artifactId>
       <version>2.0.6</version>
+      <optional>true</optional>
     </dependency>
   </dependencies>
 </project>
