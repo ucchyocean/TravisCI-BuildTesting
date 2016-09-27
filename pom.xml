@@ -141,6 +141,7 @@
       <groupId>uk.co.oliwali</groupId>
       <artifactId>HawkEye</artifactId>
       <version>1.7.2</version>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>com.onarandombox.multiversecore</groupId>
